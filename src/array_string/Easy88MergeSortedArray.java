@@ -36,11 +36,11 @@ nums2.length == n
 1 <= m + n <= 200
 -109 <= nums1[i], nums2[j] <= 109
  */
-package Easy;
+package array_string;
 
 import java.util.Arrays;
 
-public class MergeSortedArray88 {
+public class Easy88MergeSortedArray {
 
     public void merge1(int[] nums1, int m, int[] nums2, int n) {
         int j=0;
