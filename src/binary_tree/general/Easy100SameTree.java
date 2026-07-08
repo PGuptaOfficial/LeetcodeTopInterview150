@@ -1,6 +1,6 @@
 package binary_tree.general;
 
-import common.TreeNode;
+import common.*;
 /**
  Given the roots of two binary trees p and q, write a function to check if they are the same or not.
 
