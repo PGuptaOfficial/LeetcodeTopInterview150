@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b91d4be-8392-47c8-929d-c6b216e5d7a3" name="Changes" comment="29Jul">
-      <change afterPath="$PROJECT_DIR$/src/array_string/Med189RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1b91d4be-8392-47c8-929d-c6b216e5d7a3" name="Changes" comment="4Aug" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="29Jul" />
-    <option name="LAST_COMMIT_MESSAGE" value="29Jul" />
+    <MESSAGE value="4Aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="4Aug" />
   </component>
 </project>
